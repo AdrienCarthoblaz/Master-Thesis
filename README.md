@@ -38,7 +38,7 @@ A step-by-step series of examples that tell you how to install the environment c
 [here](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/).
 
 But most of the time the following code snippet executed in a notebook cell should work:
-```
+```python
 # Install a pip package in the current Jupyter kernel
 import sys
 !{sys.executable} -m pip install
@@ -50,7 +50,8 @@ Visualization.ipynb
 Once the data have been obtained, gather all of the individual dump files in the same folder as the notebooks `General.ipynb` and `Visualisation.ipynb`, and follow the instruction written on top of the `General.ipynb` notebook.
 Attention: some of the files (especially for Google) have to be renamed manually (ex: Google Photos --> Google_Photos)
 
-### Example 
+### Example
+
 ```python
 
 from Package.reader import ReaderComposite
@@ -87,7 +88,7 @@ Huge thanks to my dear friend [Cedric Viaccoz](https://github.com/cedricviaccoz)
 [WhatsAppDataAnalysis](https://github.com/cedricviaccoz/WhatsAppDataAnalysis) repository in this work and helped me through technical 
 difficulties.
 
-Another big thanks to my close friend [Arnaud Pannatier](https://github.com/ArnaudPannatier) for his kindness, curly hairs, and huge help all along
+Another big thanks to my close friend [Arnaud Pannatier](https://github.com/ArnaudPannatier) for his kindness, curly hair, and huge help all along
 this project.
 
 Don't miss the opportunity to check the amazing work proposed by Justin Ellis to get a Pandas DataFrame from Gmail data 
