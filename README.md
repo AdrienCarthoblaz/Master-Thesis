@@ -1,6 +1,6 @@
 # Master-Thesis
 
-This project is part of my master thesis called 'Treament and Data Visualization after an Access Right'. The notebooks at the root of this repository unify some data obtained from 
+This project is part of my master thesis called 'Access Right: Treatment and Visualization of Facebook, Google, Instagram, Snapchat, Swisscom and WhatsApp data'. The notebooks at the root of this repository unify some data obtained from 
 Facebook, Google, Instagram, Snapchat, Swisscom and Whatsapp into a Pandas DataFrame. Once all data are treated, they can be visualized as an
 interactive app ran through dash.plotly. The visualization produced display a timeline of all the interactions found in the data, a map of the
 locations and a table with the interactions found for a specific day.
