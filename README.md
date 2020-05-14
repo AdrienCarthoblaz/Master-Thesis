@@ -88,7 +88,7 @@ Huge thanks to my dear friend [Cedric Viaccoz](https://github.com/cedricviaccoz)
 [WhatsAppDataAnalysis](https://github.com/cedricviaccoz/WhatsAppDataAnalysis) repository in this work and helped me through technical 
 difficulties.
 
-Another big thanks to my close friend [Arnaud Pannatier](https://github.com/ArnaudPannatier) for his kindness, curly hair, and huge help all along
+Another big thanks to my close friend [Arnaud Pannatier](https://github.com/ArnaudPannatier) for his kindness and huge help all along
 this project.
 
 Don't miss the opportunity to check the amazing work proposed by Justin Ellis to get a Pandas DataFrame from Gmail data 
